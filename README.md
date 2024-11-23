@@ -54,8 +54,8 @@
 ### ![empd4](https://github.com/user-attachments/assets/d8ed994b-db1a-44a3-9707-7c55dbb759a2)
 
 
-### Name:SARWESHVARAN A
-### Register Number:212223230198
+### Name:
+### Register Number:
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
